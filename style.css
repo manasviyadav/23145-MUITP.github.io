@@ -69,11 +69,11 @@
         }
         img{
 width: 200px;
+height: 200px;
 border-radius: 50%;
-margin-top: 60px;
+margin-top: 20px;
 margin-left: auto;
 margin-right: auto;
-margin-top: 20px;
 }
 
 p {
